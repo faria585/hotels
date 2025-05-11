@@ -1,0 +1,10 @@
+[08-May-2025 06:35:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'fatimabrand00@gmail.com' for key 'users.email' in /home/customer/www/rsoa72.rehan.school/public_html/hotels/booking.php:28
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/hotels/booking.php(28): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/hotels/booking.php on line 28
+[09-May-2025 15:01:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'fatimabrand00@gmail.com' for key 'users.email' in /home/customer/www/rsoa72.rehan.school/public_html/hotels/booking.php:28
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/hotels/booking.php(28): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/hotels/booking.php on line 28
